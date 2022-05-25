@@ -76,7 +76,7 @@
   > And I'm Warren with a background in health care.
 
 - App Intro (Warren)
-We're team MealBot and we've created an app for efficient meal planning. Has anyone else ever struggled to choose what to eat or cook at home? I'm sure you all have and so the idea of Mealbot was born. The inspiration behind this idea was mainly due to covid and how staying home & deciding what to eat each day was a time consuming task. It saves time searching for recipes, creates a menu that doesn't repeat, and also cuts down on grocery waste.  For the tech stack, we used React, Express, PostgreSQL, and Node.
+We're team MealBot and we've created an app for efficient meal planning. Has anyone else ever struggled to decide what to eat or cook at home? I'm sure you all have and so the idea of Mealbot was born. The inspiration behind this idea was mainly due to covid and how staying at home deciding what to eat each day was a time consuming task. Using this app saves time searching for recipes, creates a menu that doesn't repeat, and also cuts down on grocery waste. For the tech stack, we used React, Express, PostgreSQL, and Node.
 
 - Navbar (Warren)
 Starting with the navbar, we gave users the ability to use dark mode and also the option to access their user profile in the drop down menu.
