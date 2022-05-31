@@ -22,7 +22,7 @@ This project was created in a week and a half by [Grace Wang](https://github.com
 ### Homepage & User Profile
 Users can switch to light/dark mode and access their profile settings from the drop down menu on nav bar.
 
-https://user-images.githubusercontent.com/98781479/170399722-6908fd7d-5a67-4ff2-b2b0-2eef1eef0738.mov
+https://github.com/lucasxtan/Mealbot/blob/master/doc/img/homepage%20and%20profile%20page.gif?raw=true
 
 
 ### Meal Plan
