@@ -34,7 +34,7 @@ This project was created in a week and a half by [Lucas Tan](https://github.com/
 ```
 
 ## Features
-### Homepage & User Profile
+### Homepage and User Profile
 Users can switch to light/dark mode and access their profile settings from the drop down menu on nav bar.
 
 ![homepage & user profile](https://github.com/lucasxtan/Mealbot/blob/master/doc/img/homepage%20and%20profile%20page.gif?raw=true)
