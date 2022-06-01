@@ -5,9 +5,19 @@ Mealbot is a weekly meal plan and grocery list generator. It saves your time sea
 This project was created in a week and a half by [Lucas Tan](https://github.com/lucasxtan), [Grace Wang](https://github.com/GraceWXT), and [Warren Roque](https://github.com/wawwen1) as the final project of Lighthouse Labs Full-Stack Web Development Bootcamp.
 
 ## Table Of Contents
-- [Technologies and Libraries](#technologies-and-libraries)
-- [Features](## Features)
-## Technologies and Libraries
+- [Technologies and Libraries Dependencies](#technology-and-library-dependencies)
+- [Features](#features)
+  - [Homepage & User Profile](#Homepage-&-User-Profile)
+  - [Meal Plan](#meal-plan)
+  - [Recipe Detail](#recipe-detail)
+  - [Grocery List (Desktop)](#Grocery-List-(Desktop))
+  - [Grocery List (Mobile)](#Grocery-List-(Mobile))
+- [Getting Started](#Getting-Started)
+  - [Server Side](#Server-Side)
+  - [Client Side](#Client-Side)
+
+
+## Technology and Library Dependencies
 ```
 - React
 - Chakra UI
