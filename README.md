@@ -10,8 +10,8 @@ This project was created in a week and a half by [Lucas Tan](https://github.com/
   - [Homepage & User Profile](#Homepage-&-User-Profile)
   - [Meal Plan](#meal-plan)
   - [Recipe Detail](#recipe-detail)
-  - [Grocery List (Desktop)](#Grocery-List-(Desktop))
-  - [Grocery List (Mobile)](#Grocery-List-(Mobile))
+  - [Grocery List (Desktop)](#Grocery-List-Desktop)
+  - [Grocery List (Mobile)](#Grocery-List-Mobile)
 - [Getting Started](#Getting-Started)
   - [Server Side](#Server-Side)
   - [Client Side](#Client-Side)
@@ -37,7 +37,7 @@ This project was created in a week and a half by [Lucas Tan](https://github.com/
 ### Homepage & User Profile
 Users can switch to light/dark mode and access their profile settings from the drop down menu on nav bar.
 
-![homepage and user profile](https://github.com/lucasxtan/Mealbot/blob/master/doc/img/homepage%20and%20profile%20page.gif?raw=true)
+![homepage & user profile](https://github.com/lucasxtan/Mealbot/blob/master/doc/img/homepage%20and%20profile%20page.gif?raw=true)
 
 
 ### Meal Plan
