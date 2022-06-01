@@ -7,7 +7,7 @@ This project was created in a week and a half by [Lucas Tan](https://github.com/
 ## Table Of Contents
 - [Technologies and Libraries Dependencies](#technology-and-library-dependencies)
 - [Features](#features)
-  - [Homepage & User Profile](#Homepage-&-User-Profile)
+  - [Homepage & User Profile](#Homepage-User-Profile)
   - [Meal Plan](#meal-plan)
   - [Recipe Detail](#recipe-detail)
   - [Grocery List (Desktop)](#Grocery-List-Desktop)
